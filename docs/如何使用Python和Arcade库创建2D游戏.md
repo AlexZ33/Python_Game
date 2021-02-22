@@ -213,7 +213,7 @@ def main():
 
     # 保持窗在，直到有人将其关闭。
     arcade.run()
-
+-+
 
 if __name__ == "__main__":
     main()
